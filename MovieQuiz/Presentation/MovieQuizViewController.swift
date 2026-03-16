@@ -6,9 +6,6 @@ final class MovieQuizViewController: UIViewController {
         super.viewDidLoad()
     }
 }
-
-/*
- Mock-данные
  
  
  Картинка: The Godfather
